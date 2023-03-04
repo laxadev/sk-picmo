@@ -13,5 +13,9 @@
 		"svelte": "^3.54.0",
 		"vite": "^4.0.0"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"@picmo/popup-picker": "^5.8.0",
+		"picmo": "^5.8.0"
+	}
 }
